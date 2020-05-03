@@ -1,6 +1,6 @@
 # learn-angular
 
-## This project have a intuit to learn AngularJS
+## This project have a intuit to study AngularJS
 
 ## Steps
 
