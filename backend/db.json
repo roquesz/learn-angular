@@ -1,11 +1,6 @@
 {
   "products": [
     {
-      "name": "Lapis Preto Básico",
-      "price": "1.50",
-      "id": 4
-    },
-    {
       "name": "By Form",
       "price": "111.03",
       "id": 5
